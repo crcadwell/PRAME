@@ -1,5 +1,5 @@
-# PRAME
-Raw data and code for generating figures and performing analyses described in Cadwell et al., _Preferentially expressed antigen in melanoma (PRAME) expression in malignant, but not benign, peripheral nerve sheath tumors_ JNEN 2020
+# Overview
+This repository contains the raw data and analysis code described in Cadwell et al. _Preferentially expressed antigen in melanoma (PRAME) expression in malignant, but not benign, peripheral nerve sheath tumors_ J Neuropathol Exp Neurol 2020
 
 # License
 Copyright 2020 C. R. Cadwell
